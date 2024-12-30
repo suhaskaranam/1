@@ -1,0 +1,14 @@
+
+Flexbox
+
+Flexbox is primarily designed for one-dimensional layouts, focusing on distributing space and aligning items
+along a single axis (either horizontally or vertically). It's best suited for layouts where you have a row or column
+of items, such as navigation menus, card-based designs, or centering content within a container.
+
+
+CSS Grid
+
+CSS Grid is designed for two-dimensional layouts, allowing you to define both rows and columns. It creates a
+grid of cells where content can be placed in any cell or span across multiple cells. CSS Grid is ideal for complex
+grid-based designs like magazine layouts, forms, and any layout where content needs to be placed in a precise
+grid structure.

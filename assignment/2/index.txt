@@ -1,0 +1,14 @@
+l justify-content: The justify-content property in Flexbox is used to control the alignment of flex items along
+the main axis of the flex container.
+
+2 align-items: The align-items property controls the alignment of flex items along the cross axis of the flex
+container.
+
+3 gap: The gap property is used to define the space between flex items in both directions, both along the main
+axis and the cross axis.
+
+4 flex-direction: The flex-direction property determines the direction in which flex items are placed within the
+flex container.
+
+5 flex-wrap: The flex-wrap property controls whether flex items are allowed to wrap onto multiple lines (new
+rows or columns) within the flex container when they don't fit along the main axis.
